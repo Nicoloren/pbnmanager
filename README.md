@@ -29,3 +29,5 @@ Export Websites : click on the button to export all your websites to a CSV file.
 # Technical details about the database
 
 All informations are stored in a file called websites.data. It is a SQLite file so you can open it and modify it with your favorite SQLite Manager Software.
+
+Nicolas Lorenzon - http://www.lorenzon.ovh
